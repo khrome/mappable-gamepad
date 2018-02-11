@@ -1,0 +1,28 @@
+{
+    "name": "mappable-gamepad",
+    "homepage": "https://github.com/khrome/mappable-gamepad",
+    "version": "0.0.1",
+    "main": "gamepad.js",
+    "description": "UMD gamepad driver",
+    "keywords": [
+        "gamepad"
+    ],
+    "author": "Abbey Hawk Sparrow <@khrome> (http://patternweaver.com)",
+    "contributors": [],
+    "bugs": {
+        "url": "https://github.com/khrome/mappable-gamepad/issues"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/khrome/mappable-gamepad.git"
+    },
+    "dependencies": {
+        "is-electron": "^2.1.0"
+    },
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
