@@ -1,7 +1,7 @@
 {
     "name": "mappable-gamepad",
     "homepage": "https://github.com/khrome/mappable-gamepad",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "gamepad.js",
     "description": "UMD gamepad driver",
     "keywords": [
